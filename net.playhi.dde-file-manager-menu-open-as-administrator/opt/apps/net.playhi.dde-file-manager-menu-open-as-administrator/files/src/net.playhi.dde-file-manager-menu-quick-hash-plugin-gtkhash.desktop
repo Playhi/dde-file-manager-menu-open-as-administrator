@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Icon=net.playhi.dde-file-manager-menu-open-as-administrator
+Type=Application
+Categories=Application;
+Name=Open as administrator
+Name[zh_CN]=以管理员身份打开
+X-DFM-MenuTypes=SingleFile;MultiFileDirs;SingleDir;
+Exec="/opt/apps/net.playhi.dde-file-manager-menu-open-as-administrator/files/bin/net.playhi.dde-file-manager-menu-open-as-administrator.py" %U

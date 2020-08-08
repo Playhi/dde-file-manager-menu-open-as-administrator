@@ -1,0 +1,10 @@
+Package: net.playhi.dde-file-manager-menu-open-as-administrator
+Version: 1.0.0.1
+Section: utils
+Priority: extra
+Architecture: all
+Depends: dde-file-manager (>= 4.0), dde-file-manager-menu-oem, python3
+Installed-Size: 50
+Homepage: https://github.com/Playhi/dde-file-manager-menu-open-as-administrator
+Maintainer: Playhi <hiplayhi@playhi.net>
+Description: Add an item to open current dir in the dde-file-manager with sudo in the dde-file-manager right-click menu.
