@@ -3,7 +3,7 @@ Version: 1.0.0.1
 Section: utils
 Priority: extra
 Architecture: all
-Depends: dde-file-manager (>= 4.0), dde-file-manager-menu-oem, python3
+Depends: dde-file-manager (>= 4.0), dde-file-manager-menu-oem, python3, dde-polkit-agent
 Installed-Size: 50
 Homepage: https://github.com/Playhi/dde-file-manager-menu-open-as-administrator
 Maintainer: Playhi <hiplayhi@playhi.net>
